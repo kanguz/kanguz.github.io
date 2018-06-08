@@ -1,0 +1,12 @@
+*
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(kanguzsiba.jpg);
+    background-size: cover;
+}
+p
+{
+    font-size: 60px;
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+}
